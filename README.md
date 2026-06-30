@@ -1,6 +1,7 @@
 # post_genarator
 AI-powered LinkedIn Post Generation Agent built with LangGraph conditional workflows.
 # 🚀 AI LinkedIn Post Generation Agent using LangGraph
+COLAB LINK:https://colab.research.google.com/drive/1h-8LBiiP0bFpk6Mbc1dEf3xDcE2Vf5qB?usp=sharing
 
 An AI-powered LinkedIn Post Generation Agent built with **LangGraph**, **LangChain**, and an LLM. This project uses a **Writer–Reviewer multi-agent workflow** with **conditional edges** to iteratively improve the quality of generated posts instead of relying on a single LLM response.
 
